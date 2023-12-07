@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Plumbing.Ecommerce.DataProvider\Plumbing.Ecommerce.DataProvider.csproj" />
+    <ProjectReference Include="..\Plumbing.Ecommerce.Models\Plumbing.Ecommerce.Models.csproj" />
+  </ItemGroup>
+
+</Project>
