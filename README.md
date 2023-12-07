@@ -4,7 +4,7 @@
 
 The solution is based around an ASP.NET Core web API with supporting .NET class libraries as this is what I'm most familiar with.
 
-I would normally develop using feature branches similar to the process described in the [Atlassian Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) article, but rather than in this test where I've committed all changes in a single commit to `main`.
+I would normally develop using feature branches similar to the process described in the [Atlassian Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) article, rather than in this test where I've committed all changes in a single commit to `main`.
 
 ## Assumptions
 
